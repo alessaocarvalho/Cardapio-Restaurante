@@ -109,6 +109,16 @@ export const pratosPrincipais = [
   risotoCamaraoTrufado,
 ];
 
-export const sobremesas = [brownie, cocadaForno, petitGateau];
+export const sobremesas = [
+  brownie,
+  cocadaForno,
+  petitGateau
+];
 
-export const bebidas = [aguaSemGas, aguaComGas, cocaCola, guarana, heineken];
+export const bebidas = [
+  aguaSemGas,
+  aguaComGas,
+  cocaCola,
+  guarana,
+  heineken
+];
